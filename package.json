@@ -1,12 +1,12 @@
 {
-  "name": "nodebb",
+  "name": "rigel",
   "license": "GPL-3.0",
-  "description": "NodeBB Forum",
+  "description": "Community software",
   "version": "1.0.0",
-  "homepage": "http://www.nodebb.org",
+  "homepage": "https://github.com/voraistos/rigel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/NodeBB/"
+    "url": "https://github.com/voraistos/rigel"
   },
   "main": "app.js",
   "scripts": {
@@ -89,26 +89,16 @@
     "grunt-contrib-watch": "^0.6.1"
   },
   "bugs": {
-    "url": "https://github.com/NodeBB/NodeBB/issues"
+    "url": "https://github.com/voraistos/rigel/issues"
   },
   "engines": {
     "node": ">=0.10"
   },
   "maintainers": [
     {
-      "name": "Andrew Rodrigues",
-      "email": "andrew@nodebb.org",
-      "url": "https://github.com/psychobunny"
-    },
-    {
-      "name": "Julian Lam",
-      "email": "julian@nodebb.org",
-      "url": "https://github.com/julianlam"
-    },
-    {
-      "name": "Barış Soner Uşaklı",
-      "email": "baris@nodebb.org",
-      "url": "https://github.com/barisusakli"
+      "name": "Benjamin Couhe",
+      "email": "voraistos@googlemail.com",
+      "url": "https://github.com/voraistos"
     }
   ]
 }
